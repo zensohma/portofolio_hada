@@ -25,7 +25,7 @@ export const experience: Experience[] = [
     organization: "IELC EDU",
     position: "Pengajar",
     duration: "Juli 2026 - Sekarang",
-    description: ["Memberikan tutor matematika kepada anak SMA"],
+    description: ["Memberikan tutor matematika kepada siswa SMA"],
   },
   {
     organization: "Indonesia Book Party (Region Samarinda)",
