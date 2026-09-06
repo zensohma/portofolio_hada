@@ -1,0 +1,13 @@
+node_modules
+.next
+out
+build
+public
+package-lock.json
+next-env.d.ts
+AGENTS.md
+CLAUDE.md
+PRD.md
+ARCHITECTURE.md
+ROADMAP.md
+TASKS.md
