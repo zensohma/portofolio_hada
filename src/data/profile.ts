@@ -1,4 +1,5 @@
 export const profile = {
+  photo: "/img/profil.jpg",
   name: "Muhammad Asy Syuhada",
   role: "Mathematics Student | Aspiring ML Engineer",
   intro:

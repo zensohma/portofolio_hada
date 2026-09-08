@@ -9,6 +9,13 @@ export function Hero() {
       <Container>
         <div className="flex flex-col items-center py-24 text-center sm:py-32 lg:py-40">
           <Badge variant="accent">{profile.availability}</Badge>
+  
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src={profile.photo}
+            alt={profile.name}
+            className="mt-6 h-32 w-32 rounded-full border-4 border-primary object-cover sm:h-40 sm:w-40"
+          />
 
           <h1 className="mt-6 text-4xl font-bold tracking-tight text-foreground sm:text-5xl lg:text-6xl">
             {profile.name}
