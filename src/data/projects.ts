@@ -52,4 +52,11 @@ export const projects: Project[] = [
     stack: ["Python"],
     github: "https://github.com/zensohma/numerical_methods_program",
   },
+  {
+    name: "Numerica",
+    description:
+      "Numerica adalah pustaka python untuk  analisis numerik/metode numerik. Metode yang tersedia adalah bisection, secant dan metode numerik lainnya yang akan ditambahkan saat proses pengembangan",
+    stack: ["Python"],
+    github: "https://github.com/zensohma/numerica",
+  },
 ];
